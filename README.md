@@ -5,6 +5,7 @@ This project is a part of IOS Bootcamp which I am completing now on [Udemy](http
 
 ## What I learned
 
+* How to use open weather API
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
 * Learn to use the UITextField to get user input. 
