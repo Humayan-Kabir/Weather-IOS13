@@ -1,18 +1,12 @@
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-#  Clima
+#  Weather App
 
-## Our Goal
+## Goal
+This project is a part of IOS Bootcamp series which I am completing now on Udemy. As self starter of learning iOS app development. It's time to work with API and Location service. I have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
-It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
-
-
-## What you will create
-
-By the end of the module, you will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
-
-## What you will learn
+## What I learned
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
