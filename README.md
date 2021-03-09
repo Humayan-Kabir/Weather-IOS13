@@ -1,4 +1,4 @@
-#  Weather App IOS
+#  Weather App iOS
 
 ![App Preview](https://github.com/Humayan-Kabir/Weather-IOS13/blob/master/weather%20app%20preview.gif)
 
